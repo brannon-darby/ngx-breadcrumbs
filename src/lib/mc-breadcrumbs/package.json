@@ -1,12 +1,13 @@
 {
-  "name": "ngx-breadcrumbs",
-  "version": "0.0.3",
+  "name": "@brannon2/ngx-breadcrumbs",
+  "version": "0.0.1",
   "description": "Angular 4+ routing breadcrumbs",
   "author": {
     "name": "(null) McNull",
     "email": "noreplies@hotmail.com"
   },
   "license": "MIT",
+  "private": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/McNull/ngx-breadcrumbs"
